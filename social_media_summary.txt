@@ -1,0 +1,11 @@
+Social Media Usage Analysis (Week 23.03-29.03)
+=============================================
+
+Total usage per platform (minutes):
+WhatsApp: 221.5 min
+YouTube: 185.6 min
+Discord: 92.3 min
+LinkedIn: 31.8 min
+Reddit: 11.7 min
+
+Total social media usage: 542.9 min
